@@ -1,16 +1,9 @@
 # flutter_state_management_test
 
-A new Flutter project.
+While I was trying Flutter, I knew that Flutter is inspired by `React`. So, I wanted to know all the ways I can manage the `states`.
+This repository is just an example project of how states are managed in Flutter by different State management libraries.
 
-## Getting Started
+I tried Redux but in both Flutter and ReactJS but I didn't really like the way Redux is implemented in Flutter(That's just my opinion).
+So, I tried some state management libs in this repo. So far, I liked the `states_rebuilder` library. You may try it from here:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://pub.dev/packages/states_rebuilder
