@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import './states_rebuilder/states_rebuilder.dart';
+import './observable_state2/states_rebuilder2.dart';
 
-void main() => runApp(
-    App()
-);
+void main() => runApp(App());
