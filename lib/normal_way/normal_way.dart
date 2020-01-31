@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 class NormalWay extends StatefulWidget {
   @override
-  _NormalWayState createState() => _NormalWayState();
+  App createState() => App();
 }
 
-class _NormalWayState extends State<NormalWay> {
+class App extends State<NormalWay> {
   int counter = 0;
 
   @override

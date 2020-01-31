@@ -28,7 +28,7 @@ class _MyStatefulWidgetState
       title: "State Management Title",
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Normal Way'),
+          title: Text('Observable State'),
         ),
         body: Center(
           child: Padding(
